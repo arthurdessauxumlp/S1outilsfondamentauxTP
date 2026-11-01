@@ -2,7 +2,7 @@
 
 Outil utilisé : 
 Assistant IA : GEMINI 
-Gemini m'a permis de construire un code correct et ce en se basant sur un travail de reflexion fait par mes soin.
+Gemini m'a permis de construire un code correct et optimisé et ce en se basant sur un travail de réflexion préalable fait par mes soin.
 De plus cela m'a permis d'intégrer une interface graphique à mon projet (en utilisant le module tkinter que j'avais déjà vu en NSI)
 
 Cependant il demeur quelques faiblesse par rapport à ce projet,
